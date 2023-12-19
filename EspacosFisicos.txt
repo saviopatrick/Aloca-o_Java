@@ -1,0 +1,4 @@
+sala 107;paulo freire;30
+auditorio 1;CCET;90
+auditorio 2;CCET;90
+sala 303;paulo freire;30sala 205;paulo freire;25
